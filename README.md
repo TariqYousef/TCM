@@ -1,5 +1,5 @@
 # TCM
-Calculating shannon's information content (IC) Based on topic models using LDA algorithm.
+Calculating shannon's information content (IC) Based on topic models using LDA (Latent Dirichlet Allocation) algorithm.
 
 The tool is language-independent, and it can deal with texts in any language.
 
@@ -58,4 +58,4 @@ $ python tcm.py -i examples/input/sample1.json -t 10 -o examples/output/test1.cs
 - Since LDA training is not deterministic, the results over multiple training could slightly differ.
 
 ### Future work:
-- Adding support for LSI algorithm.
+- Adding support for LSA (Latent Semantic Analysis) algorithm.
