@@ -59,3 +59,8 @@ $ python tcm.py -i examples/input/sample1.json -t 10 -o examples/output/test1.cs
 
 ### Future work:
 - Adding support for LSA (Latent Semantic Analysis) algorithm.
+
+### Related Publications:
+- [Keyword extraction in German: Information-theory vs. deep learning (2020)](https://www.scitepress.org/Papers/2020/93747/93747.pdf)
+- [The Semantic Level of Shannon Information: Are Highly Informative Words Good Keywords? A Study on German (2020)](https://books.google.de/books?hl=en&lr=&id=Oe4lEAAAQBAJ&oi=fnd&pg=PA139&dq=info:b-PqG87toREJ:scholar.google.com&ots=pK3aij8JVY&sig=eKUeHMdAQSs511q_chTlmSn8arE&redir_esc=y#v=onepage&q&f=false)
+- [Information from topic contexts: the prediction of aspectual coding of verbs in Russian (2020)](https://www.researchgate.net/publication/345636663_Information_from_topic_contexts_the_prediction_of_aspectual_coding_of_verbs_in_Russian)
